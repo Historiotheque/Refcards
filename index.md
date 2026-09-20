@@ -13,6 +13,10 @@ related cards, so any entry point reaches the whole system.*
 
 - **Historiotherapeusis** — `cards/RC-2026/RC-2026-0001.md`
 - **Historiotopia** - `cards/RC-2026/RC-2026-0002.md`
+- **Delta-workspace (ΔW)** - `cards/RC-2026/RC-2026-0003.md`
+- **Historiotopic velocity** - `cards/RC-2026/RC-2026-0004.md`
+- **Art Operation 4.0** - `cards/RC-2026/RC-2026-0005.md`
+- **Workstreaming** - `cards/RC-2026/RC-2026-0006.md`
 - *(more entry points as cards are added)*
 
 ## Trails
