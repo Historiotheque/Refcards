@@ -12,6 +12,7 @@ related cards, so any entry point reaches the whole system.*
 ## Entry points
 
 - **Historiotherapeusis** — `cards/RC-2026/RC-2026-0001.md`
+- **Historiotopia** - `cards/RC-2026/RC-2026-0002.md`
 - *(more entry points as cards are added)*
 
 ## Trails
