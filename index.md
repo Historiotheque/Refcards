@@ -17,6 +17,12 @@ related cards, so any entry point reaches the whole system.*
 - **Historiotopic velocity** - `cards/RC-2026/RC-2026-0004.md`
 - **Art Operation 4.0** - `cards/RC-2026/RC-2026-0005.md`
 - **Workstreaming** - `cards/RC-2026/RC-2026-0006.md`
+- **Art Operation Schema v0.1** — `cards/RC-2026/RC-2026-0007.md`
+- **RQ-2026-013 — the Picasso–Braque collaboration as art operation** — `cards/RC-2026/RC-2026-0008.md`
+- **RQ-2026-014 — the documentability asymmetry** — `cards/RC-2026/RC-2026-0009.md`
+- **RQ-2026-015 — operation-to-operation interfaces** — `cards/RC-2026/RC-2026-0010.md`
+- **Documented absence — the New Documentation method** — `cards/RC-2026/RC-2026-0011.md`
+- **Documentability is non-monotonic across history (RQ-2026-017)** — `cards/RC-2026/RC-2026-0012.md`
 - *(more entry points as cards are added)*
 
 ## Trails
